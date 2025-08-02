@@ -9,9 +9,6 @@ HTML5
 
 CSS3
 
-JavaScript (para interatividade básica)
-
-[Se usou alguma biblioteca ou framework, pode citar aqui]
 
 📱 Responsividade
 O site é totalmente responsivo, adaptando-se com fluidez a diferentes dispositivos, incluindo desktop, tablet e smartphone, garantindo boa usabilidade em qualquer tela.
